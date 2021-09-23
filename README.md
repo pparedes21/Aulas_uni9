@@ -36,7 +36,7 @@ Para acessá-los, basta utilizar o RA e Senha da Central do Aluno
 
 * [Tutorial](https://github.com/geracaoti/comandos-git)
 
-## Instalação do Ambiente Python (Opcional)
+## Instalação do Ambiente Python (opcional)
 
 * [Anaconda](https://docs.anaconda.com/anaconda/install/) - Pacote para desenvolvimento de aplicações de Ciência de Dados com Python.
 
@@ -110,7 +110,7 @@ Deverão constar no trabalho final:
 * Relatório final sobre o estudo, indicando os principais pontos estudados, assim como suas conclusões.
 * Referências bibliográficas no formato ABNT.
 
-## Veja um exemplo de projeto aqui
+## Exemplo de projeto
 
 [Análises de Notas do ENEM](https://github.com/rafhaelgomes/Enem_dados_2018)
 
